@@ -1,0 +1,9 @@
+title: bowman.sh
+
+theme: null
+
+exclude:
+    - Gemfile
+    - Gemfile.lock
+    - CNAME
+    - README
